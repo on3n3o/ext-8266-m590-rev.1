@@ -1,4 +1,6 @@
-###Extension board for OrangePi PC
+!!!!!DO NOT USE IT FLIPPED IMAGE OF CONNECTOR
+
+Extension board for OrangePi PC
 
 #Prequsites:
 1. OrangePi with some kind of linux. Prefered Lubuntu 15.04 configured as described on: eulan.pl
