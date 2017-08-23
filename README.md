@@ -1,5 +1,3 @@
-!!!!!DO NOT USE IT FLIPPED IMAGE OF CONNECTOR
-
 Extension board for OrangePi PC
 
 #Prequsites:
